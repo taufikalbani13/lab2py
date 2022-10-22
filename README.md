@@ -56,8 +56,10 @@
 1. Menjalankan IDLE
 2. Membuat file baru dengan nama latihan3.py (pastikan lokasi file
    pada folder lab2py pada direktori kerja anda)
-3. Menggunakan fungsi input untuk mengambil nilai variabel dari
-   keyboard.
+3. Menampilkan hasil penggabungan
+4. Menampilkan hasil penjumlahan
+5. Menampilkan hasil pembagian 
+6. Menggunakan format string
   
 ![Screenshot (49)](https://user-images.githubusercontent.com/115517181/197322742-237a8c73-4308-420c-8608-4dcd89cf5575.png)
 
