@@ -59,5 +59,9 @@
 3. Menggunakan fungsi input untuk mengambil nilai variabel dari
    keyboard.
   
-![Screenshot (47)](https://user-images.githubusercontent.com/115517181/196453445-70d05f7a-904b-4f60-82b1-af7444d63339.png)
+![Screenshot (49)](https://user-images.githubusercontent.com/115517181/197322742-237a8c73-4308-420c-8608-4dcd89cf5575.png)
+
+Sekian tutorial dari saya kurang lebih nya mohon maaf
+Terima kasih
+
 
